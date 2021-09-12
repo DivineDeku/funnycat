@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cat_bubble_talking.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cat Speech Bubble0000" x="10" y="10" width="1241" height="203" frameX="0" frameY="0" frameWidth="1241" frameHeight="365"/>
+	<SubTexture name="Cat Speech Bubble0001" x="1266" y="10" width="1241" height="235" frameX="0" frameY="-15" frameWidth="1241" frameHeight="365"/>
+	<SubTexture name="Cat Speech Bubble0002" x="2522" y="10" width="1241" height="259" frameX="0" frameY="-38" frameWidth="1241" frameHeight="365"/>
+	<SubTexture name="Cat Speech Bubble0003" x="10" y="284" width="1241" height="319" frameX="0" frameY="-15" frameWidth="1241" frameHeight="365"/>
+	<SubTexture name="Cat Speech Bubble0004" x="1266" y="284" width="1241" height="365"/>
+</TextureAtlas>
